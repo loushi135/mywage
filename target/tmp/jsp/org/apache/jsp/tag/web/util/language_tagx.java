@@ -436,7 +436,7 @@ static {
     org.springframework.web.servlet.tags.MessageTag _jspx_th_spring_message_0 = (org.springframework.web.servlet.tags.MessageTag) _jspx_tagPool_spring_message_var_htmlEscape_code_arguments_nobody.get(org.springframework.web.servlet.tags.MessageTag.class);
     _jspx_th_spring_message_0.setPageContext(_jspx_page_context);
     _jspx_th_spring_message_0.setParent((javax.servlet.jsp.tagext.Tag) _jspx_th_c_if_0);
-    _jspx_th_spring_message_0.setHtmlEscape("false");
+    _jspx_th_spring_message_0.setHtmlEscape(false);
     _jspx_th_spring_message_0.setVar("lang_label");
     _jspx_th_spring_message_0.setArguments((java.lang.Object) org.apache.jasper.runtime.PageContextImpl.evaluateExpression("${label}", java.lang.Object.class, (PageContext)this.getJspContext(), null));
     _jspx_th_spring_message_0.setCode("global_language_switch");

@@ -207,7 +207,7 @@ static {
     org.springframework.web.servlet.tags.MessageTag _jspx_th_spring_message_0 = (org.springframework.web.servlet.tags.MessageTag) _jspx_tagPool_spring_message_var_htmlEscape_code_nobody.get(org.springframework.web.servlet.tags.MessageTag.class);
     _jspx_th_spring_message_0.setPageContext(_jspx_page_context);
     _jspx_th_spring_message_0.setParent((javax.servlet.jsp.tagext.Tag) _jspx_th_c_if_1);
-    _jspx_th_spring_message_0.setHtmlEscape("false");
+    _jspx_th_spring_message_0.setHtmlEscape(false);
     _jspx_th_spring_message_0.setVar("label");
     _jspx_th_spring_message_0.setCode((java.lang.String) org.apache.jasper.runtime.PageContextImpl.evaluateExpression("menu_category_${fn:toLowerCase(fn:substringAfter(id,'_'))}_label", java.lang.String.class, (PageContext)this.getJspContext(), _jspx_fnmap_0));
     int[] _jspx_push_body_count_spring_message_0 = new int[] { 0 };

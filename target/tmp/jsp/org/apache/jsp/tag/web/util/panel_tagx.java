@@ -275,7 +275,7 @@ public final class panel_tagx
     org.springframework.web.servlet.tags.EscapeBodyTag _jspx_th_spring_escapeBody_0 = (org.springframework.web.servlet.tags.EscapeBodyTag) _jspx_tagPool_spring_escapeBody_javaScriptEscape.get(org.springframework.web.servlet.tags.EscapeBodyTag.class);
     _jspx_th_spring_escapeBody_0.setPageContext(_jspx_page_context);
     _jspx_th_spring_escapeBody_0.setParent((javax.servlet.jsp.tagext.Tag) _jspx_th_c_set_1);
-    _jspx_th_spring_escapeBody_0.setJavaScriptEscape("true");
+    _jspx_th_spring_escapeBody_0.setJavaScriptEscape(true);
     int[] _jspx_push_body_count_spring_escapeBody_0 = new int[] { 0 };
     try {
       int _jspx_eval_spring_escapeBody_0 = _jspx_th_spring_escapeBody_0.doStartTag();
@@ -350,7 +350,7 @@ public final class panel_tagx
     org.springframework.web.servlet.tags.EscapeBodyTag _jspx_th_spring_escapeBody_1 = (org.springframework.web.servlet.tags.EscapeBodyTag) _jspx_tagPool_spring_escapeBody_javaScriptEscape.get(org.springframework.web.servlet.tags.EscapeBodyTag.class);
     _jspx_th_spring_escapeBody_1.setPageContext(_jspx_page_context);
     _jspx_th_spring_escapeBody_1.setParent((javax.servlet.jsp.tagext.Tag) _jspx_th_c_set_2);
-    _jspx_th_spring_escapeBody_1.setJavaScriptEscape("true");
+    _jspx_th_spring_escapeBody_1.setJavaScriptEscape(true);
     int[] _jspx_push_body_count_spring_escapeBody_1 = new int[] { 0 };
     try {
       int _jspx_eval_spring_escapeBody_1 = _jspx_th_spring_escapeBody_1.doStartTag();
@@ -425,7 +425,7 @@ public final class panel_tagx
     org.springframework.web.servlet.tags.EscapeBodyTag _jspx_th_spring_escapeBody_2 = (org.springframework.web.servlet.tags.EscapeBodyTag) _jspx_tagPool_spring_escapeBody_javaScriptEscape.get(org.springframework.web.servlet.tags.EscapeBodyTag.class);
     _jspx_th_spring_escapeBody_2.setPageContext(_jspx_page_context);
     _jspx_th_spring_escapeBody_2.setParent((javax.servlet.jsp.tagext.Tag) _jspx_th_c_set_3);
-    _jspx_th_spring_escapeBody_2.setJavaScriptEscape("true");
+    _jspx_th_spring_escapeBody_2.setJavaScriptEscape(true);
     int[] _jspx_push_body_count_spring_escapeBody_2 = new int[] { 0 };
     try {
       int _jspx_eval_spring_escapeBody_2 = _jspx_th_spring_escapeBody_2.doStartTag();

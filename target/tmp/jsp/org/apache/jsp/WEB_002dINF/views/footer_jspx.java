@@ -402,7 +402,7 @@ static {
     _jspx_th_spring_message_3.setPageContext(_jspx_page_context);
     _jspx_th_spring_message_3.setParent(null);
     _jspx_th_spring_message_3.setVar("sponsored");
-    _jspx_th_spring_message_3.setHtmlEscape("false");
+    _jspx_th_spring_message_3.setHtmlEscape(false);
     _jspx_th_spring_message_3.setCode("global_sponsored");
     int[] _jspx_push_body_count_spring_message_3 = new int[] { 0 };
     try {

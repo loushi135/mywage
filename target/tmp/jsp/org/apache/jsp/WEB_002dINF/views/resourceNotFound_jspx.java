@@ -101,7 +101,7 @@ static {
     org.springframework.web.servlet.tags.MessageTag _jspx_th_spring_message_0 = (org.springframework.web.servlet.tags.MessageTag) _jspx_tagPool_spring_message_var_htmlEscape_code_nobody.get(org.springframework.web.servlet.tags.MessageTag.class);
     _jspx_th_spring_message_0.setPageContext(_jspx_page_context);
     _jspx_th_spring_message_0.setParent(null);
-    _jspx_th_spring_message_0.setHtmlEscape("false");
+    _jspx_th_spring_message_0.setHtmlEscape(false);
     _jspx_th_spring_message_0.setCode("error_resourcenotfound_title");
     _jspx_th_spring_message_0.setVar("title");
     int[] _jspx_push_body_count_spring_message_0 = new int[] { 0 };
@@ -234,7 +234,7 @@ static {
     org.springframework.web.servlet.tags.MessageTag _jspx_th_spring_message_3 = (org.springframework.web.servlet.tags.MessageTag) _jspx_tagPool_spring_message_var_htmlEscape_code_nobody.get(org.springframework.web.servlet.tags.MessageTag.class);
     _jspx_th_spring_message_3.setPageContext(_jspx_page_context);
     _jspx_th_spring_message_3.setParent((javax.servlet.jsp.tagext.Tag) _jspx_th_c_if_0);
-    _jspx_th_spring_message_3.setHtmlEscape("false");
+    _jspx_th_spring_message_3.setHtmlEscape(false);
     _jspx_th_spring_message_3.setCode("exception_message");
     _jspx_th_spring_message_3.setVar("message");
     int[] _jspx_push_body_count_spring_message_3 = new int[] { 0 };
@@ -296,7 +296,7 @@ static {
     org.springframework.web.servlet.tags.MessageTag _jspx_th_spring_message_4 = (org.springframework.web.servlet.tags.MessageTag) _jspx_tagPool_spring_message_var_htmlEscape_code_nobody.get(org.springframework.web.servlet.tags.MessageTag.class);
     _jspx_th_spring_message_4.setPageContext(_jspx_page_context);
     _jspx_th_spring_message_4.setParent((javax.servlet.jsp.tagext.Tag) _jspx_th_c_if_0);
-    _jspx_th_spring_message_4.setHtmlEscape("false");
+    _jspx_th_spring_message_4.setHtmlEscape(false);
     _jspx_th_spring_message_4.setCode("exception_stacktrace");
     _jspx_th_spring_message_4.setVar("stacktrace");
     int[] _jspx_push_body_count_spring_message_4 = new int[] { 0 };

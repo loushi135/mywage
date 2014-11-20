@@ -94,7 +94,7 @@ public final class index_jspx extends org.apache.jasper.runtime.HttpJspBase
     org.springframework.web.servlet.tags.MessageTag _jspx_th_spring_message_0 = (org.springframework.web.servlet.tags.MessageTag) _jspx_tagPool_spring_message_var_htmlEscape_code_nobody.get(org.springframework.web.servlet.tags.MessageTag.class);
     _jspx_th_spring_message_0.setPageContext(_jspx_page_context);
     _jspx_th_spring_message_0.setParent(null);
-    _jspx_th_spring_message_0.setHtmlEscape("false");
+    _jspx_th_spring_message_0.setHtmlEscape(false);
     _jspx_th_spring_message_0.setCode("application_name");
     _jspx_th_spring_message_0.setVar("app_name");
     int[] _jspx_push_body_count_spring_message_0 = new int[] { 0 };
@@ -122,7 +122,7 @@ public final class index_jspx extends org.apache.jasper.runtime.HttpJspBase
     org.springframework.web.servlet.tags.MessageTag _jspx_th_spring_message_1 = (org.springframework.web.servlet.tags.MessageTag) _jspx_tagPool_spring_message_var_htmlEscape_code_arguments_nobody.get(org.springframework.web.servlet.tags.MessageTag.class);
     _jspx_th_spring_message_1.setPageContext(_jspx_page_context);
     _jspx_th_spring_message_1.setParent(null);
-    _jspx_th_spring_message_1.setHtmlEscape("false");
+    _jspx_th_spring_message_1.setHtmlEscape(false);
     _jspx_th_spring_message_1.setArguments((java.lang.Object) org.apache.jasper.runtime.PageContextImpl.evaluateExpression("${app_name}", java.lang.Object.class, (PageContext)_jspx_page_context, null));
     _jspx_th_spring_message_1.setCode("welcome_titlepane");
     _jspx_th_spring_message_1.setVar("title");

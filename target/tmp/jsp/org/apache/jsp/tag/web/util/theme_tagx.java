@@ -364,7 +364,7 @@ static {
     org.springframework.web.servlet.tags.MessageTag _jspx_th_spring_message_1 = (org.springframework.web.servlet.tags.MessageTag) _jspx_tagPool_spring_message_var_htmlEscape_code_nobody.get(org.springframework.web.servlet.tags.MessageTag.class);
     _jspx_th_spring_message_1.setPageContext(_jspx_page_context);
     _jspx_th_spring_message_1.setParent((javax.servlet.jsp.tagext.Tag) _jspx_th_c_if_0);
-    _jspx_th_spring_message_1.setHtmlEscape("false");
+    _jspx_th_spring_message_1.setHtmlEscape(false);
     _jspx_th_spring_message_1.setVar("theme_standard");
     _jspx_th_spring_message_1.setCode("global_theme_standard");
     int[] _jspx_push_body_count_spring_message_1 = new int[] { 0 };
@@ -553,7 +553,7 @@ static {
     org.springframework.web.servlet.tags.MessageTag _jspx_th_spring_message_2 = (org.springframework.web.servlet.tags.MessageTag) _jspx_tagPool_spring_message_var_htmlEscape_code_nobody.get(org.springframework.web.servlet.tags.MessageTag.class);
     _jspx_th_spring_message_2.setPageContext(_jspx_page_context);
     _jspx_th_spring_message_2.setParent((javax.servlet.jsp.tagext.Tag) _jspx_th_c_if_0);
-    _jspx_th_spring_message_2.setHtmlEscape("false");
+    _jspx_th_spring_message_2.setHtmlEscape(false);
     _jspx_th_spring_message_2.setVar("theme_alt");
     _jspx_th_spring_message_2.setCode("global_theme_alt");
     int[] _jspx_push_body_count_spring_message_2 = new int[] { 0 };
